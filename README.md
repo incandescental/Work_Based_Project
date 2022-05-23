@@ -1,6 +1,6 @@
 # Work_Based_Project
 
-A Python class for applying the sliding window algorithm and calculating change points using Hotellings T2 Distribution to daily time series.
+A Python class for applying the sliding window algorithm and calculating change points in daily time series using Hotellings T2 Distribution
 
 Dependencies:
 
